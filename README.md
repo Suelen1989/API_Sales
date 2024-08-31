@@ -27,8 +27,8 @@ Este projeto é uma API REST_Framework desenvolvida usando Django e Django Rest 
   1. Clone o repositório:
      
     ```ruby
-      git clone https://github.com/seu-usuario/django-rest-api-produtos.git
-      cd django-rest-api-produtos
+    git clone https://github.com/seu-usuario/django-rest-api-produtos.git
+    cd django-rest-api-produtos
     ```
       
 
