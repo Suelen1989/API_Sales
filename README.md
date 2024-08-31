@@ -2,8 +2,6 @@
 
 Este projeto é uma API REST_Framework desenvolvida usando Django e Django Rest Framework (DRF). A API permite a criação, leitura, atualização e exclusão (CRUD) de produtos.
 
-***
-
 ## Funcionalidades
 
 - **Listar produtos**: Obtenha uma lista de todos os produtos.
@@ -12,7 +10,6 @@ Este projeto é uma API REST_Framework desenvolvida usando Django e Django Rest 
 - **Atualizar um produto existente**: Modifique as informações de um produto.
 - **Excluir um produto**: Remova um produto do banco de dados.
 
-  ***
 
 ## Tecnologias Utilizadas
 
@@ -20,7 +17,6 @@ Este projeto é uma API REST_Framework desenvolvida usando Django e Django Rest 
 - [Django](https://www.djangoproject.com/)
 - [Django Rest Framework](https://www.django-rest-framework.org/)
 
-  ***
 
 ## Pré-requisitos
 
@@ -28,7 +24,6 @@ Este projeto é uma API REST_Framework desenvolvida usando Django e Django Rest 
   - [Pip](https://pip.pypa.io/en/stable/installation/)
   - [Virtualenv](https://virtualenv.pypa.io/en/latest/installation/)
     
- ***
  
 ## Instalação
 
