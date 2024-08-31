@@ -1,6 +1,6 @@
 # Django REST API - Products Management
 
-Este projeto é uma API RESTful desenvolvida usando Django e Django Rest Framework (DRF). A API permite a criação, leitura, atualização e exclusão (CRUD) de produtos.
+Este projeto é uma API REST_Framework desenvolvida usando Django e Django Rest Framework (DRF). A API permite a criação, leitura, atualização e exclusão (CRUD) de produtos.
 
 ## Funcionalidades
 
@@ -25,6 +25,7 @@ Este projeto é uma API RESTful desenvolvida usando Django e Django Rest Framewo
 ## Instalação
 
   1. Clone o repositório:
+     
     ```
       git clone https://github.com/seu-usuario/django-rest-api-produtos.git
       cd django-rest-api-produtos
