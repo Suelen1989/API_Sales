@@ -16,15 +16,15 @@ Este projeto é uma API RESTful desenvolvida usando Django e Django Rest Framewo
 - [Django](https://www.djangoproject.com/)
 - [Django Rest Framework](https://www.django-rest-framework.org/)
 
-  ## Pré-requisitos
+## Pré-requisitos
 
   - [Python 3.8+](https://www.python.org/downloads/)
   - [Pip](https://pip.pypa.io/en/stable/installation/)
   - [Virtualenv](https://virtualenv.pypa.io/en/latest/installation/)
  
-    ## Instalação
+## Instalação
 
-    1. Clone o repositório:
+  1- Clone o repositório:
     ```
       git clone https://github.com/seu-usuario/django-rest-api-produtos.git
       cd django-rest-api-produtos
