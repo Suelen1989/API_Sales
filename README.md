@@ -25,10 +25,10 @@ Este projeto é uma API REST_Framework desenvolvida usando Django e Django Rest 
 ## Instalação
 
 Clone o repositório
-     
-    git |clone| https://github.com/seu-usuario/django-rest-api-produtos.git
-    |cd| django-rest-api-produtos
-
+    ```python
+    git clone https://github.com/seu-usuario/django-rest-api-produtos.git
+    cd django-rest-api-produtos
+    ```
  Crie e ative um ambiente virtual  
 
     python -m venv venv
