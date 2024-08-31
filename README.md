@@ -25,10 +25,10 @@ Este projeto é uma API RESTful desenvolvida usando Django e Django Rest Framewo
     ## Instalação
 
     1. Clone o repositório:
-       ```ruby
+    ```
       git clone https://github.com/seu-usuario/django-rest-api-produtos.git
       cd django-rest-api-produtos
-       ```
+    ```
       
 
     
