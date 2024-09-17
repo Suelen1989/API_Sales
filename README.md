@@ -36,7 +36,27 @@ Clone o repositório
 
     python -m venv venv
     source venv/bin/activate  # No Windows use `venv\Scripts\activate`
-  
+
+ Instale as dependências do projeto
+
+    pip install -r requirements.txt
+
+Execute as migrações para criar o banco de dados
+
+    python manage.py migrate
+
+Inicie o servidor de desenvolvimento
+
+    python manage.py runserver
+
+Acesse a API em http://127.0.0.1:8000/ no seu navegador ou usando ferramentas como Postman ou cURL.
+
+## Estrutura do Projeto
+
+- models.py: Define o modelo 'Products', que representa um produto na base de dados.
+- serializers.py: Contém o 'ProductsSerializer', que converte instâncias de 'Products' para JSON e vice-versa.
+- views.py: Define a 'ProductsViewSet', que controla as operações CRUD.
+- urls.py: Configura as rotas da API.
       
 
     
