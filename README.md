@@ -53,10 +53,35 @@ Acesse a API em http://127.0.0.1:8000/ no seu navegador ou usando ferramentas co
 
 ## Estrutura do Projeto
 
-- models.py: Define o modelo 'Products', que representa um produto na base de dados.
-- serializers.py: Contém o 'ProductsSerializer', que converte instâncias de 'Products' para JSON e vice-versa.
-- views.py: Define a 'ProductsViewSet', que controla as operações CRUD.
+- models.py: Define o modelo `Products`, que representa um produto na base de dados.
+- serializers.py: Contém o `ProductsSerializer`, que converte instâncias de `Products` para JSON e vice-versa.
+- views.py: Define a `ProductsViewSet`, que controla as operações CRUD.
 - urls.py: Configura as rotas da API.
+
+  ## Endpoints da API
+
+- **GET** /produtos/: Lista todos os produtos.
+- **GET** /produtos/{id}/: Detalha um produto específico.
+- **POST** /produtos/: Cria um novo produto.
+- **PUT** /produtos/{id}/: Atualiza um produto existente.
+- **DELETE** /produtos/{id}/: Exclui um produto.
+
+  ## Contribuindo
+
+Se você deseja contribuir com este projeto, siga os passos abaixo:
+
+1. Faça um fork do projeto.
+2. Crie uma nova branch: `git checkout -b feature/sua-feature`.
+3. Faça suas alterações e commit: `git commit -m 'Adiciona nova feature`´.
+4. Envie para o repositório remoto: `git push origin feature/sua-feature`.
+5. Abra um Pull Request.
+
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+
       
 
     
